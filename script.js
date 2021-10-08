@@ -55,4 +55,4 @@ container.addEventListener("mouseleave", (e) => {
   purchase.style.transform = "translateZ(0px)";
 });
  
-//<link href="https://fonts.googleapis.com/css?family=Bitter|Cabin|Montserrat|Nunito|Poppins|Roboto&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Bitter|Cabin|Montserrat|Nunito|Poppins|Roboto&display=swap" rel="stylesheet">
